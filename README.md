@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Guillermo Ferres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx4a3M4YmUxYTRremV6enluNmNtcjRzMXFmYmx3cjZkYjk5MzVsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" align="right">
 <p>
    I'm a frontend web developer with over <strong>3 years of experience</strong> building modern, accessible, and well-structured user interfaces.
   
@@ -14,7 +14,7 @@
   🚀 I'm always learning and open to new challenges that help me grow as a developer.
 </p>
 
-<h2>Tech Skills</h2>
+<h2>💻 Tech Stacks</h2>
 <p align="center">
 
 **Frontend Languages, Frameworks and Metaframeworks**:
